@@ -14,7 +14,7 @@ We take security seriously. If you discover a security vulnerability, please rep
 
 1. **Do not** open a public GitHub issue for security vulnerabilities
 2. **Do not** post about the vulnerability on social media or public forums
-3. **Email** us at your-security-email@example.com with details about the vulnerability
+3. **Email** us at danishahmed012320@yahoo.in with details about the vulnerability
 
 Include the following information in your report:
 - Description of the vulnerability
@@ -95,6 +95,7 @@ This project may integrate with third-party services. Please refer to their resp
 
 For security-related inquiries:
 - **Repository Owner**: [danishahmed111](https://github.com/danishahmed111)
+- **Security Email**: danishahmed012320@yahoo.in
 - **Report Vulnerability**: (See "Reporting Security Vulnerabilities" section above)
 
 ## Compliance

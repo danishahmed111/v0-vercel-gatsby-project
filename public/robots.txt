@@ -1,0 +1,28 @@
+# Robots.txt
+# Owned by: danishahmed111
+# Contact: danishahmed012320@yahoo.in
+# Repository: https://github.com/danishahmed111/v0-vercel-gatsby-project
+
+User-agent: *
+Allow: /
+Allow: /dashboard
+Allow: /auth/login
+Allow: /auth/signup
+Allow: /about
+Allow: /contact
+
+Disallow: /api
+Disallow: /admin/private
+Disallow: /.env
+Disallow: /.env.local
+Disallow: /.git
+Disallow: /node_modules
+Disallow: /.next
+Disallow: /dist
+
+# Crawl delay and request rate
+Crawl-delay: 1
+Request-rate: 1/10s
+
+# Sitemap location
+Sitemap: https://dashboard.danishahmed111.dev/sitemap.xml
